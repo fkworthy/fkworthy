@@ -1,7 +1,7 @@
 - ✅ Hi, I’m @fkworthy
-- ✅ I’m interested in 🖥️💻 Web Design 🖥️💻 Web Development
-- ✅ I’m currently learning 📚 Web Design 📚 Web Development
-- ✅ I’m looking to collaborate through AMPLESOFT LTD 👨‍💻
+- ✅ I’m interested in 👨‍💻 Web Design 👨‍💻 Web Development
+- ✅ I’m currently learning 👨‍💻 Web Design 👨‍💻 Web Development
+- ✅ I’m looking to collaborate through AMPLESOFT LTD 👇
 - AMPLESOFT LTD is an emerging R & D based IT Company that enables Products and Services.
 "AMPLESOFT Online/Offline Courses" is a Product of "AMPLESOFT LTD".
 "AMPLESOFT Online Shopping" is an Online Shop of "AMPLESOFT LTD".
