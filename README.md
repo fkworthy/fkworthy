@@ -1,4 +1,4 @@
-I am Fahimul Karim, I am a professional Full-Stack Developer (WAMP), who is skillful in developing websites or web applications via different web technologies.
+I am Fahimul Karim, I am a professional (WAMP) Full-Stack Developer, who is skillful in developing websites or web applications via different web technologies.
 
 Web Technologies:
 ✅ HTML5 & CSS3
