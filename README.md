@@ -16,5 +16,3 @@ In terms of communication, I am comfortable speaking and writing English. I love
 ⁕ WhatsApp: +8801630195553
 ⁕ Telegram: +8801877165978
 ⁕ Skype: live:.cid.89dea7a8471b1a5d
-
-![images](https://user-images.githubusercontent.com/64401158/163112462-c600068b-e918-4b5b-9942-a0a9004c192d.png)
