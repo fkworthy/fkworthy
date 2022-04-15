@@ -17,4 +17,4 @@ In terms of communication, I am comfortable speaking and writing English. I love
 ⁕ Telegram: +8801877165978
 ⁕ Skype: live:.cid.89dea7a8471b1a5d
 
-![Web Development](https://user-images.githubusercontent.com/64401158/163113867-2a92e0ef-dcd2-4e9a-86fc-d8128ace3db5.jpeg)
+![Full-Stack Developer](https://user-images.githubusercontent.com/64401158/163544221-c9fc251e-5a0d-4134-a47e-29539b67193c.jpeg)
