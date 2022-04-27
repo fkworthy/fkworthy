@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahimul Karim</h1>
-<h3 align="center">I am a professional (WAMP) Full-Stack Developer, who is skillful in developing websites or web applications via different web technologies.</h3>
+<h3 align="center">◄ Co-Founder and CEO at AMPLESOFT LTD | (WAMP) Full-Stack Developer | Video Editor ►</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkworthy&label=Profile%20views&color=0e75b6&style=flat" alt="fkworthy" /> </p>
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/FahimulWorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimulkarim" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fahimul-karim-worthy-4225391a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimul karim" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fahimul.worthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimul karim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fahimul_karim/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimul karim" height="30" width="40" /></a>
