@@ -19,7 +19,7 @@ In terms of communication, I am comfortable speaking and writing English. I love
 
 ![(WAMP) Full-Stack Developer](https://user-images.githubusercontent.com/64401158/163604858-6b6d101c-24b0-44da-b717-d1ebd3f857f0.gif)
 
-<h3 align="left">Connect with me: worthy_aust@yahoo.com</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
