@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fkworthy" alt="fkworthy" /></a> </p>
 
+- 🌱 I’m currently learning **HTML5 & CSS3, Bootstrap5, JavaScript & jQuery, WordPress, PHP, MySQL**
+
 - 👨‍💻 All of my projects are available at [https://fkworthy.github.io/Personal-Web-Page/](https://fkworthy.github.io/Personal-Web-Page/)
+
+- 📫 How to reach me **worthy_aust@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
