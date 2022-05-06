@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahimul Karim</h1>
-<h3 align="center">◄ Co-Founder and CEO at AMPLESOFT LTD | (WAMP) Full-Stack Developer | Video Editor ►</h3>
+<h3 align="center">Co-Founder and CEO at AMPLESOFT LTD | (WAMP) Full-Stack Developer | Video Editor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkworthy&label=Profile%20views&color=0e75b6&style=flat" alt="fkworthy" /> </p>
 
