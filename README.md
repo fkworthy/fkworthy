@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahimul Karim</h1>
-<h3 align="center">Technology Specialist</h3>
+<h3 align="center">A Technology Specialist ✔</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkworthy&label=Profile%20views&color=0e75b6&style=flat" alt="fkworthy" /> </p>
 
