@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fkworthy" alt="fkworthy" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5 & CSS3, Bootstrap5, JavaScript & jQuery, WordPress, PHP, MySQL, Apache HTTP Server, Adobe Photoshop**
+- 🌱 I’m currently learning **HTML5, CSS3, Bootstrap5, JavaScript, jQuery, WordPress, PHP, MySQL, Apache HTTP Server, Adobe Photoshop**
 
 - 👨‍💻 All of my projects are available at [https://fkworthy.github.io/Personal-Web-Page/](https://fkworthy.github.io/Personal-Web-Page/)
 
