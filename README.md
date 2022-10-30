@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fkworthy" alt="fkworthy" /></a> </p>
 
-- 🌱 I’m currently learning **Web Design, Web Development, Computer Programming, Video Editing.**
+- 🌱 I’m currently learning **Professional Video Editing: Part 1, Professional Video Editing: Part 2.**
 
 - 👨‍💻 All of my projects are available at [https://fkworthy.github.io/Personal-Web-Page/](https://fkworthy.github.io/Personal-Web-Page/)
 
