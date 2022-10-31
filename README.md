@@ -30,7 +30,7 @@
 <a href="https://stackoverflow.com/users/14824163/fahimul-karim-worthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahimul karim worthy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fahimul.worthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimul karim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fahimul_karim/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimul karim" height="30" width="40" /></a>
-<a href="Fahimul Karim Worthy#7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fahimul Karim Worthy#7900" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fahimul Karim Worthy#7900" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
