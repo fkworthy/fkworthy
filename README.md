@@ -25,12 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fahimulkarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimulkarim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahimul karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimul karim" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fahimul karim worthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahimul karim worthy" height="30" width="40" /></a>
-<a href="https://fb.com/fahimul karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimul karim" height="30" width="40" /></a>
-<a href="https://instagram.com/fahimul karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimul karim" height="30" width="40" /></a>
-<a href="https://discord.gg/Fahimul Karim Worthy#7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fahimul Karim Worthy#7900" height="30" width="40" /></a>
+<a href="https://twitter.com/FahimulWorthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimulkarim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fahimul-karim-worthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimul karim" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14824163/fahimul-karim-worthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahimul karim worthy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fahimul.worthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimul karim" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fahimul_karim/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimul karim" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fahimul Karim Worthy#7900" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
