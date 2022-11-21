@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Personal Web Page](https://fkworthy.github.io/Personal-Web-Page/)
 
-- 🌱 I’m currently learning **Python Complete Course For Beginners**
+- 🌱 I’m currently learning **Python for Beginners**
 
 - 👯 I’m looking to collaborate on [Computer keyboard](https://fkworthy.github.io/Computer-keyboard/)
 
